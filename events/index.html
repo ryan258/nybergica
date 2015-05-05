@@ -1,0 +1,25 @@
+---
+layout: default
+title: Events 'fo yo' face!
+meta: Pardon the title, it's drunk..,
+---
+
+<h1>{{page.title}}</h1>
+
+<div class="container">
+	<div class="row">
+		<div class="col-sm-12">
+			<h1>{{page.title}}</h1>
+			<p>{{page.meta}}</p>
+			<ul class="list-unstyled">
+				{% for post in site.categories.event %}
+				<li>
+					<h2><a href="">{{post.title}}</a></h2>
+					<p>{{post.meta}}</p>
+				</li>
+				{% endfor %}
+			</ul>
+			<p class="text-center">Oh potatos....</p>
+		</div>
+	</div>
+</div>
