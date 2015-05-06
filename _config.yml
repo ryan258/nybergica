@@ -6,10 +6,9 @@ baseurl: "http://ryan258.github.io/nybergica/" # the subpath of your site, e.g. 
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 #Social Settings
-soundcloud: https://soundcloud.com/paraselene-rock
-facebook: https://www.facebook.com/paraselene.rock
-purevolume: http://www.purevolume.com/Paraselene
-youtube: https://www.youtube.com/channel/UCfND1vy3tgvxS2GO7gfdqEQ
+soundcloud: https://soundcloud.com/nybergica
+facebook: https://www.facebook.com/
+youtube: https://www.youtube.com/
 twitter_username: jekyllrb
 github_username:  jekyll
 
